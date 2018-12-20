@@ -125,6 +125,12 @@ table {
 	border-bottom: 5px solid  #00cc99;
 }
 
+.content img{
+	width: 1002px;
+	height: 346px;
+	
+
+}
 .content ul{
 	margin-top:65px;
 }
